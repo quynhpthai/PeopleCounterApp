@@ -33,7 +33,7 @@
         android:id="@+id/reset_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:backgroundTint="#27B7DB"
+        android:backgroundTint="#FF7F7F"
         android:text="Reset"
         android:textSize="40sp"
         app:layout_constraintStart_toStartOf="parent"

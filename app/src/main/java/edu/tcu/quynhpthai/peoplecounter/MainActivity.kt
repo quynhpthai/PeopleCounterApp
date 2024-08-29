@@ -30,7 +30,6 @@ class MainActivity : AppCompatActivity() {
         val resetButton=findViewById<TextView>(R.id.reset_button);
         resetButton.setOnClickListener{_ ->
             Toast.makeText(this,"Counter before reset was $count", Toast.LENGTH_SHORT).show();
-
             count=0;
             countTextView.text=count.toString();
 
