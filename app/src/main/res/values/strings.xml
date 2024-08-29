@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Alive People Counter</string>
+    <string name="addButtonText">Add</string>
+</resources>
